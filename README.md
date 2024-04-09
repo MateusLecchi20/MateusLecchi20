@@ -1,9 +1,11 @@
 ### Olá! Eu sou o Mateus Lecchi 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-lecchi-9485a5257/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=DmwnWsTPLlzkVnZTtWPqJvGJNkzTKKbtTtQXncwpPhKqDptgdWXnKwLGMswPmwhtDtzQzHBHRvPv)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=mateusrlecchi@gmail.com)
 
 ![Mateus Lecchi GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusLecchi20&show_icons=true&theme=dracula)
+
+[![Top Lans](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusLecchi20)](https://github.com/MateusLecchi20/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia a dia
 
