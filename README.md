@@ -2,6 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-lecchi-9485a5257/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=mateusrlecchi@gmail.com)
+[![Portifolio](https://img.shields.io/badge/Portifolio-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white)](https://mateuslecchi20.github.io/Portifolio/)
 
 ![Mateus Lecchi GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusLecchi20&show_icons=true&theme=dracula)
 
